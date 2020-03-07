@@ -1,7 +1,7 @@
 class Moviedb::CLI 
   
   def call 
-    start 
+    puts "What would you like to search for?" 
   end 
   
   
