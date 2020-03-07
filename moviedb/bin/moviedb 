@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require "../lib/moviedb.rb" 
+require "./lib/moviedb.rb" 
 
 Moviedb::CLI.new.call
 
