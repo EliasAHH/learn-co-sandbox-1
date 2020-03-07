@@ -1,6 +1,7 @@
 class Moviedb::API 
   
-  def fetch 
+  def fetch(tvshow)
+    
     
   
 end 
