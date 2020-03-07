@@ -2,3 +2,4 @@
 
 require "../lib/moviedb.rb" 
 
+Moviedb::CLI.new.call
