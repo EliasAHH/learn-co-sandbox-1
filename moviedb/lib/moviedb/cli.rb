@@ -1,0 +1,3 @@
+class Moviedb::CLI 
+  
+end 
